@@ -1,3 +1,4 @@
 # Madelung-potential
 The determination of Madelung potential for Finite Size Effect in DFT calculations
-The method is based on PRB 87 (2013) 094111 & Nano Lett 9 (2009) 975
+The method is based on Comput. Mater. Sci. 123, 131-138 (2016)
+If you use this code, please cite the above reference. Thanks!
