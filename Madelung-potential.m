@@ -1,5 +1,6 @@
 %% To calculate madelung constant from ewald summation 
-%based on PRB 87 (2013) 094111 & Nano Lett 9 (2009) 975
+%Based on Comput. Mater. Sci. 123, 131-138 (2016)
+%If use this code, please cite the above Reference. Thanks very much!
 
 n =20;
 kn = 20;
